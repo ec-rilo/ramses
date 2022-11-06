@@ -29,12 +29,6 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "prettier": {
-    "printWidth": 80,
-    "semi": true,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  },
   "name": "@edgarcodes/ramses",
   "author": "Edgar Carrillo",
   "module": "dist/ramses.esm.js",
