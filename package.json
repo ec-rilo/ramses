@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ramses",
+  "name": "@edgarcodes/ramses",
   "author": "Edgar Carrillo",
   "module": "dist/ramses.esm.js",
   "size-limit": [
